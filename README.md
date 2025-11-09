@@ -45,7 +45,7 @@ VS Code Live Server: This was essential for seeing our changes instantly.
 
 Bootstrap 5 Docs & Examples: We used this constantly to find and copy component code.
 
-Gemini (My AI Teacher): I used my AI training teacher, Gemini, quite a bit. It helped me form a step-by-step plan. I also relied on it for debugging when I got stuck and didn't understand why my site was broken.
+Gemini : I used Gemini quite a bit. It helped me form a step-by-step plan. I also relied on it for debugging when I got stuck and didn't understand why my site was broken.
 
 Challenges Faced & How We Solved Them
 
