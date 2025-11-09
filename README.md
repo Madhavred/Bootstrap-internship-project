@@ -1,7 +1,7 @@
 Bootstrap 5 UI "Remix" Project
 
-Live URL: https://YOUR-USERNAME.github.io/YOUR-PROJECT-NAME
-(Remember to replace this with your actual GitHub Pages link after you deploy!)
+Live URL: https://6910b62c10ffe5249b4ad097--bootstrap-internship-project.netlify.app/contact 
+          (https://github.com/Madhavred/Bootstrap-internship-project.git)
 
 Project Overview
 
